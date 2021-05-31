@@ -14,7 +14,7 @@ Projeto criado pra servir de portfolio com [Next.js](https://nextjs.org/)
 
 ## Começando
 
-Caso não tenha um projeto NextJS,  execute o seguinte comando na pasta que deseja que o arquivo esteja:
+Caso não tenha um projeto NextJS,  execute o seguinte comando na pasta que deseja que o projeto esteja:
 
 ```bash
 npx create-next-app --typescript [NOME_DO_PROJETO]
