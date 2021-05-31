@@ -23,10 +23,6 @@ export default function CustomSwitch({
       <Switch
         checked={checked}
         onChange={() => onChange()}
-        // classes={{
-        //   // root: classes.root
-        //   switchBase: classes.switchBase
-        // }}
       />
     </section>
   )

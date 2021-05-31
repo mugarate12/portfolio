@@ -37,7 +37,7 @@ export default function Profile({
         />
 
         <Text
-          text='Crio soluções e estudo boas práticas pra entregar excelência sempre'
+          text='Crio soluções e estudo boas práticas pra entregar o melhor'
           type='description'
           className={styles.description}
         />
