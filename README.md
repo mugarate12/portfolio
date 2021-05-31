@@ -22,10 +22,12 @@ npx create-next-app --typescript [NOME_DO_PROJETO]
 yarn create next-app --typescript [NOME_DO_PROJETO]
 ```
 
-todo o carregamento da aplicação, instala as seguintes depêndencias:
+após a instalação da aplicação, vá a pasta onde está o projeto e instale as seguintes depêndencias:
 
 ```bash
 npm i -S @material-ui/core @material-ui/icons classnames styled-jsx
+# or
+yarn add @material-ui/core @material-ui/icons classnames styled-jsx
 ```
 
 Em seguida, execute o projeto com:
