@@ -1,5 +1,5 @@
 .container {
-  height: 400px;
+  min-height: 400px;
   width: 100%;
 
   display: grid;
@@ -63,6 +63,6 @@
 
 @media (max-width: 380px) {
   .container {
-    height: 450px;
+    min-height: 450px;
   }
 }
