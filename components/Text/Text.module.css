@@ -1,0 +1,26 @@
+.default_text {
+  width: fit-content;
+
+  padding: 0;
+  margin: 0;
+
+  color: var(--text-color);
+}
+
+.title {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.sub_title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.paragraph {
+  font-size: 16px;
+}
+
+.description {
+  font-size: 14px;
+}

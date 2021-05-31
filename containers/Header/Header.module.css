@@ -1,0 +1,39 @@
+.container {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  height: var(--header-height);
+  width: 100%;
+
+  padding-left: 10px;
+  padding-right: 10px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  background-color: var(--header-color);
+
+  z-index: 10;
+}
+
+.main_content {
+  height: 100%;
+  width: fit-content;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.link_text {
+  /* font-weight: bold; */
+  color: var(--text-color);
+}
+
+.link_text:target {
+  font-weight: bold;
+}

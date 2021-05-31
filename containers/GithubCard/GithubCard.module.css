@@ -1,0 +1,24 @@
+.container {
+  width: 100%;
+
+  padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  background-color:  var(--card-color);
+
+  border-radius: 5px;
+}
+
+.container:hover {
+  margin-top: -4px;
+  box-shadow: 0px 4px 3px #333;
+
+  transition: 0.5s;
+}
+
+.description {
+  color: grey;
+}
